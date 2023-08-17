@@ -9,7 +9,7 @@ In this session, you'll learn how to utilize Warpfusion to process video-to-vide
 - At least 16GB of Nvidia GPU memory
 - [Warpfusion script v15](https://www.patreon.com/posts/stable-v0-15-84106537)
 
-
+**Directions:**
 1. Open the Notebook in Colab
 2. Change the runtime type to `T4` or higher GPU
 3. Run parts 1.1-1.3 to install Stable Diffusion dependencies (~ 6 min)
